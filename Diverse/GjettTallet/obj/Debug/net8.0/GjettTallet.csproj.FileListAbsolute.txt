@@ -1,0 +1,21 @@
+C:\Users\ellen\OneDrive\Skrivebord\Kode sammen med Kristoffer\GjettTallet\bin\Debug\net8.0\GjettTallet.exe
+C:\Users\ellen\OneDrive\Skrivebord\Kode sammen med Kristoffer\GjettTallet\bin\Debug\net8.0\GjettTallet.deps.json
+C:\Users\ellen\OneDrive\Skrivebord\Kode sammen med Kristoffer\GjettTallet\bin\Debug\net8.0\GjettTallet.runtimeconfig.json
+C:\Users\ellen\OneDrive\Skrivebord\Kode sammen med Kristoffer\GjettTallet\bin\Debug\net8.0\GjettTallet.dll
+C:\Users\ellen\OneDrive\Skrivebord\Kode sammen med Kristoffer\GjettTallet\bin\Debug\net8.0\GjettTallet.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Kode sammen med Kristoffer\GjettTallet\obj\Debug\net8.0\GjettTallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellen\OneDrive\Skrivebord\Kode sammen med Kristoffer\GjettTallet\obj\Debug\net8.0\GjettTallet.AssemblyInfoInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Kode sammen med Kristoffer\GjettTallet\obj\Debug\net8.0\GjettTallet.AssemblyInfo.cs
+C:\Users\ellen\OneDrive\Skrivebord\Kode sammen med Kristoffer\GjettTallet\obj\Debug\net8.0\GjettTallet.csproj.CoreCompileInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Kode sammen med Kristoffer\GjettTallet\obj\Debug\net8.0\GjettTallet.dll
+C:\Users\ellen\OneDrive\Skrivebord\Kode sammen med Kristoffer\GjettTallet\obj\Debug\net8.0\refint\GjettTallet.dll
+C:\Users\ellen\OneDrive\Skrivebord\Kode sammen med Kristoffer\GjettTallet\obj\Debug\net8.0\GjettTallet.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Kode sammen med Kristoffer\GjettTallet\obj\Debug\net8.0\GjettTallet.genruntimeconfig.cache
+C:\Users\ellen\OneDrive\Skrivebord\Kode sammen med Kristoffer\GjettTallet\obj\Debug\net8.0\ref\GjettTallet.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\GjettTallet\obj\Debug\net8.0\GjettTallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\GjettTallet\obj\Debug\net8.0\GjettTallet.AssemblyInfoInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\GjettTallet\obj\Debug\net8.0\GjettTallet.AssemblyInfo.cs
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\GjettTallet\obj\Debug\net8.0\GjettTallet.csproj.CoreCompileInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\GjettTallet\obj\Debug\net8.0\GjettTallet.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\GjettTallet\obj\Debug\net8.0\refint\GjettTallet.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\GjettTallet\obj\Debug\net8.0\GjettTallet.pdb

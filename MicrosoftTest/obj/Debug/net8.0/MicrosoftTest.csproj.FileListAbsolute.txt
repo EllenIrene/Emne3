@@ -1,0 +1,14 @@
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\MicrosoftTest\bin\Debug\net8.0\MicrosoftTest.exe
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\MicrosoftTest\bin\Debug\net8.0\MicrosoftTest.deps.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\MicrosoftTest\bin\Debug\net8.0\MicrosoftTest.runtimeconfig.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\MicrosoftTest\bin\Debug\net8.0\MicrosoftTest.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\MicrosoftTest\bin\Debug\net8.0\MicrosoftTest.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\MicrosoftTest\obj\Debug\net8.0\MicrosoftTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\MicrosoftTest\obj\Debug\net8.0\MicrosoftTest.AssemblyInfoInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\MicrosoftTest\obj\Debug\net8.0\MicrosoftTest.AssemblyInfo.cs
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\MicrosoftTest\obj\Debug\net8.0\MicrosoftTest.csproj.CoreCompileInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\MicrosoftTest\obj\Debug\net8.0\MicrosoftTest.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\MicrosoftTest\obj\Debug\net8.0\refint\MicrosoftTest.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\MicrosoftTest\obj\Debug\net8.0\MicrosoftTest.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\MicrosoftTest\obj\Debug\net8.0\MicrosoftTest.genruntimeconfig.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\MicrosoftTest\obj\Debug\net8.0\ref\MicrosoftTest.dll

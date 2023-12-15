@@ -1,0 +1,14 @@
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Aksjehandel\bin\Debug\net8.0\Aksjehandel.exe
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Aksjehandel\bin\Debug\net8.0\Aksjehandel.deps.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Aksjehandel\bin\Debug\net8.0\Aksjehandel.runtimeconfig.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Aksjehandel\bin\Debug\net8.0\Aksjehandel.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Aksjehandel\bin\Debug\net8.0\Aksjehandel.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Aksjehandel\obj\Debug\net8.0\Aksjehandel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Aksjehandel\obj\Debug\net8.0\Aksjehandel.AssemblyInfoInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Aksjehandel\obj\Debug\net8.0\Aksjehandel.AssemblyInfo.cs
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Aksjehandel\obj\Debug\net8.0\Aksjehandel.csproj.CoreCompileInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Aksjehandel\obj\Debug\net8.0\Aksjehandel.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Aksjehandel\obj\Debug\net8.0\refint\Aksjehandel.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Aksjehandel\obj\Debug\net8.0\Aksjehandel.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Aksjehandel\obj\Debug\net8.0\Aksjehandel.genruntimeconfig.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Aksjehandel\obj\Debug\net8.0\ref\Aksjehandel.dll

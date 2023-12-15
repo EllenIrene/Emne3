@@ -1,0 +1,14 @@
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\SimenOgEllen\bin\Debug\net8.0\SimenOgEllen.exe
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\SimenOgEllen\bin\Debug\net8.0\SimenOgEllen.deps.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\SimenOgEllen\bin\Debug\net8.0\SimenOgEllen.runtimeconfig.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\SimenOgEllen\bin\Debug\net8.0\SimenOgEllen.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\SimenOgEllen\bin\Debug\net8.0\SimenOgEllen.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\SimenOgEllen\obj\Debug\net8.0\SimenOgEllen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\SimenOgEllen\obj\Debug\net8.0\SimenOgEllen.AssemblyInfoInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\SimenOgEllen\obj\Debug\net8.0\SimenOgEllen.AssemblyInfo.cs
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\SimenOgEllen\obj\Debug\net8.0\SimenOgEllen.csproj.CoreCompileInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\SimenOgEllen\obj\Debug\net8.0\SimenOgEllen.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\SimenOgEllen\obj\Debug\net8.0\refint\SimenOgEllen.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\SimenOgEllen\obj\Debug\net8.0\SimenOgEllen.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\SimenOgEllen\obj\Debug\net8.0\SimenOgEllen.genruntimeconfig.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\SimenOgEllen\obj\Debug\net8.0\ref\SimenOgEllen.dll

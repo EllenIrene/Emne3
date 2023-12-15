@@ -1,0 +1,14 @@
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Krokodille\bin\Debug\net8.0\Krokodille.exe
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Krokodille\bin\Debug\net8.0\Krokodille.deps.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Krokodille\bin\Debug\net8.0\Krokodille.runtimeconfig.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Krokodille\bin\Debug\net8.0\Krokodille.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Krokodille\bin\Debug\net8.0\Krokodille.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Krokodille\obj\Debug\net8.0\Krokodille.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Krokodille\obj\Debug\net8.0\Krokodille.AssemblyInfoInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Krokodille\obj\Debug\net8.0\Krokodille.AssemblyInfo.cs
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Krokodille\obj\Debug\net8.0\Krokodille.csproj.CoreCompileInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Krokodille\obj\Debug\net8.0\Krokodille.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Krokodille\obj\Debug\net8.0\refint\Krokodille.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Krokodille\obj\Debug\net8.0\Krokodille.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Krokodille\obj\Debug\net8.0\Krokodille.genruntimeconfig.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\Krokodille\obj\Debug\net8.0\ref\Krokodille.dll

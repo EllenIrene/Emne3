@@ -1,0 +1,14 @@
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\HarryPotter\bin\Debug\net8.0\HarryPotter.exe
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\HarryPotter\bin\Debug\net8.0\HarryPotter.deps.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\HarryPotter\bin\Debug\net8.0\HarryPotter.runtimeconfig.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\HarryPotter\bin\Debug\net8.0\HarryPotter.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\HarryPotter\bin\Debug\net8.0\HarryPotter.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\HarryPotter\obj\Debug\net8.0\HarryPotter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\HarryPotter\obj\Debug\net8.0\HarryPotter.AssemblyInfoInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\HarryPotter\obj\Debug\net8.0\HarryPotter.AssemblyInfo.cs
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\HarryPotter\obj\Debug\net8.0\HarryPotter.csproj.CoreCompileInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\HarryPotter\obj\Debug\net8.0\HarryPotter.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\HarryPotter\obj\Debug\net8.0\refint\HarryPotter.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\HarryPotter\obj\Debug\net8.0\HarryPotter.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\HarryPotter\obj\Debug\net8.0\HarryPotter.genruntimeconfig.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\HarryPotter\obj\Debug\net8.0\ref\HarryPotter.dll

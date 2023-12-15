@@ -1,0 +1,14 @@
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\PPuke4\bin\Debug\net8.0\PPuke4.exe
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\PPuke4\bin\Debug\net8.0\PPuke4.deps.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\PPuke4\bin\Debug\net8.0\PPuke4.runtimeconfig.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\PPuke4\bin\Debug\net8.0\PPuke4.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\PPuke4\bin\Debug\net8.0\PPuke4.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\PPuke4\obj\Debug\net8.0\PPuke4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\PPuke4\obj\Debug\net8.0\PPuke4.AssemblyInfoInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\PPuke4\obj\Debug\net8.0\PPuke4.AssemblyInfo.cs
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\PPuke4\obj\Debug\net8.0\PPuke4.csproj.CoreCompileInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\PPuke4\obj\Debug\net8.0\PPuke4.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\PPuke4\obj\Debug\net8.0\refint\PPuke4.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\PPuke4\obj\Debug\net8.0\PPuke4.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\PPuke4\obj\Debug\net8.0\PPuke4.genruntimeconfig.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\PPuke4\obj\Debug\net8.0\ref\PPuke4.dll

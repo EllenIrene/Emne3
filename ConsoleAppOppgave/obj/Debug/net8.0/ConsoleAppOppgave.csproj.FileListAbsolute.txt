@@ -1,0 +1,14 @@
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\ConsoleAppOppgave\bin\Debug\net8.0\ConsoleAppOppgave.exe
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\ConsoleAppOppgave\bin\Debug\net8.0\ConsoleAppOppgave.deps.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\ConsoleAppOppgave\bin\Debug\net8.0\ConsoleAppOppgave.runtimeconfig.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\ConsoleAppOppgave\bin\Debug\net8.0\ConsoleAppOppgave.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\ConsoleAppOppgave\bin\Debug\net8.0\ConsoleAppOppgave.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\ConsoleAppOppgave\obj\Debug\net8.0\ConsoleAppOppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\ConsoleAppOppgave\obj\Debug\net8.0\ConsoleAppOppgave.AssemblyInfoInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\ConsoleAppOppgave\obj\Debug\net8.0\ConsoleAppOppgave.AssemblyInfo.cs
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\ConsoleAppOppgave\obj\Debug\net8.0\ConsoleAppOppgave.csproj.CoreCompileInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\ConsoleAppOppgave\obj\Debug\net8.0\ConsoleAppOppgave.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\ConsoleAppOppgave\obj\Debug\net8.0\refint\ConsoleAppOppgave.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\ConsoleAppOppgave\obj\Debug\net8.0\ConsoleAppOppgave.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\ConsoleAppOppgave\obj\Debug\net8.0\ConsoleAppOppgave.genruntimeconfig.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\ConsoleAppOppgave\obj\Debug\net8.0\ref\ConsoleAppOppgave.dll

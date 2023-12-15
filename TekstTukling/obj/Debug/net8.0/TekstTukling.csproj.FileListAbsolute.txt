@@ -1,0 +1,14 @@
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\TekstTukling\bin\Debug\net8.0\TekstTukling.exe
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\TekstTukling\bin\Debug\net8.0\TekstTukling.deps.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\TekstTukling\bin\Debug\net8.0\TekstTukling.runtimeconfig.json
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\TekstTukling\bin\Debug\net8.0\TekstTukling.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\TekstTukling\bin\Debug\net8.0\TekstTukling.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\TekstTukling\obj\Debug\net8.0\TekstTukling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\TekstTukling\obj\Debug\net8.0\TekstTukling.AssemblyInfoInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\TekstTukling\obj\Debug\net8.0\TekstTukling.AssemblyInfo.cs
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\TekstTukling\obj\Debug\net8.0\TekstTukling.csproj.CoreCompileInputs.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\TekstTukling\obj\Debug\net8.0\TekstTukling.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\TekstTukling\obj\Debug\net8.0\refint\TekstTukling.dll
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\TekstTukling\obj\Debug\net8.0\TekstTukling.pdb
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\TekstTukling\obj\Debug\net8.0\TekstTukling.genruntimeconfig.cache
+C:\Users\ellen\OneDrive\Skrivebord\Emne 3\TekstTukling\obj\Debug\net8.0\ref\TekstTukling.dll
